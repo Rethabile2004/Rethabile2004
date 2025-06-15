@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on small or big progects
 - 📫 You can reach me on ericksiase375@gmail.com
 - 😄 Pronouns: Male
-- ⚡ Fun fact: Im doing my second year in Diploma in information technology at the Central university of Technology.
+- ⚡ Fun fact: Im doing my third year in Diploma in information technology at the Central university of Technology.
 
 <!---
 Rethabile2004/Rethabile2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
