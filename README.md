@@ -59,8 +59,8 @@ Web Development • Full-Stack Applications • Cross-Platform Mobile Apps • G
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RethabileSiase&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RethabileSiase&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rethabile2004&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rethabile2004&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages"/>
 </p>
 
 ---
