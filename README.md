@@ -70,3 +70,38 @@ Web Development • Full-Stack Applications • Cross-Platform Mobile Apps • G
 
 > 💻 _Actively building, learning, and shipping projects — always open to connect and grow._
 
+---
+### 🧠 Developer Vibes
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-C%23-blueviolet?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Code-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framework-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Backend-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>
+---
+### ⚡ Current Focus
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=500&lines=Building+Full-Stack+Web+Apps;Sharpening+React+and+ASP.NET+Skills;Exploring+Flutter+for+Mobile+Development;Always+learning+and+shipping+code)](https://git.io/typing-svg)
+
+
+---
+### 🐍 My Contribution Graph
+
+![snake gif](https://github.com/Rethabile2004/Rethabile2004/blob/output/github-contribution-grid-snake.svg)
+
+---
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rethabile2004&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+</p>
+
+---
+### 👀 Profile Visits
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Rethabile2004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
