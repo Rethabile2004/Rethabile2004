@@ -90,7 +90,7 @@ Web Development • Full-Stack Applications • Cross-Platform Mobile Apps • G
 ---
 ### 🐍 My Contribution Graph
 
-![snake gif](https://github.com/Rethabile2004/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Rethabile2004/Rethabile2004/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ### 🏆 GitHub Trophies
