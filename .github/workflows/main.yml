@@ -1,4 +1,4 @@
-name: Generate Snake v0
+name: Generate Snake
 
 on:
   schedule:
@@ -8,21 +8,24 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to write the snake SVG file
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Generate contribution snake
-        uses: Platane/snk@v3
+        # Use the svg-only action and the 'outputs' parameter
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Rethabile2004
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push generated snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: dist # This directory will now exist after the previous step
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
