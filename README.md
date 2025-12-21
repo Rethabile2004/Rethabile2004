@@ -6,11 +6,6 @@
 I'm an aspiring **Full-Stack Developer** passionate about building scalable web and mobile applications. I enjoy learning new technologies, solving real-world problems, and constantly improving my craft through hands-on projects and collaboration.
 
 ---
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Rethabile2004/Rethabile2004/blob/output/github-contribution-grid-snake.svg)
----
 ### 🧰 Languages & Tools
 
 <p align="left">
@@ -61,7 +56,9 @@ Web Development • Full-Stack Applications • Cross-Platform Mobile Apps • G
 </p>
 
 ---
+### 🐍 Contribution Snake
 
+![Snake animation](https://github.com/Rethabile2004/Rethabile2004/blob/output/github-contribution-grid-snake.svg)
 ### 📫 Reach Me
 📧 **ericksiase375@gmail.com**
 
