@@ -27,16 +27,15 @@ I'm an aspiring **Full-Stack Developer** passionate about building scalable web 
 
 ### Currently Sharpening
 
-🌐 **Advanced Front-End:** React + Modern Tooling  
-⚙️ **Full-Stack Development:** ASP.NET Core + React  
-📱 **Mobile Development:** Flutter  
+🌐 **Advanced Front-End:** Next js + React + Modern Tooling  
+⚙️ **Full-Stack Development:** Next js  ASP.NET Core + React  
+📱 **Mobile Development:** Flutter + Firebase
 
 ---
 
 ### Open to Opportunities
 
 -  Project Collaborations (small or large)  
--  Open-Source Contributions  
 -  Internship or Junior Developer Roles  
 -  Learning from Experienced Developers  
 
