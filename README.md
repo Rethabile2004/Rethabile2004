@@ -28,7 +28,7 @@ I'm an aspiring **Full-Stack Developer** passionate about building scalable web 
 ### Currently Sharpening
 
 🌐 **Advanced Front-End:** Next js + React + Modern Tooling  
-⚙️ **Full-Stack Development:** Next js  ASP.NET Core + React  
+⚙️ **Full-Stack Development:** Next js,  ASP.NET Core + React  
 📱 **Mobile Development:** Flutter + Firebase
 
 ---
@@ -50,9 +50,17 @@ Web Development • Full-Stack Applications • Cross-Platform Mobile Apps • G
 ### GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rethabile2004&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rethabile2004&theme=tokyonight" height="160" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rethabile2004&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
+  <!-- Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Rethabile2004&theme=tokyonight&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
+  
+  <!-- Stats with different theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Rethabile2004&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats"/>
+  
+  <!-- Streak with different theme -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rethabile2004&theme=radical&hide_border=true" height="160" alt="GitHub Streak"/>
+  
+  <!-- Languages with alternative layout -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rethabile2004&layout=donut&theme=radical&hide_border=true" height="160" alt="Top Languages"/>
 </p>
 
 ---
