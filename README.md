@@ -49,18 +49,25 @@ Web Development • Full-Stack Applications • Cross-Platform Mobile Apps • G
 
 ### GitHub Insights
 
+<h2 align="center">🚀 GitHub Insights</h2>
+
 <p align="center">
-  <!-- Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Rethabile2004&theme=tokyonight&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
-  
-  <!-- Stats with different theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Rethabile2004&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats"/>
-  
-  <!-- Streak with different theme -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rethabile2004&theme=radical&hide_border=true" height="160" alt="GitHub Streak"/>
-  
-  <!-- Languages with alternative layout -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rethabile2004&layout=donut&theme=radical&hide_border=true" height="160" alt="Top Languages"/>
+  <a href="https://github-profile-trophy.vercel.app/?username=Rethabile2004&theme=tokyonight">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rethabile2004&theme=tokyonight&margin-w=10&margin-h=10" alt="GitHub Trophies" height="120"/>
+  </a>
+  <br/>
+
+  <a href="https://github-readme-stats.vercel.app/api?username=Rethabile2004&show_icons=true&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rethabile2004&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  </a>
+
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Rethabile2004&theme=tokyonight">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rethabile2004&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  </a>
+
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Rethabile2004&layout=compact&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rethabile2004&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  </a>
 </p>
 
 ---
