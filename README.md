@@ -49,10 +49,9 @@ Web Development • Full-Stack Applications • Cross-Platform Mobile Apps • G
 
 ### GitHub Insights
 
-<h2 align="center">🚀 GitHub Insights</h2>
-
 <p align="center">
-  <img width="800" height="600" alt="chart" src="https://github.com/user-attachments/assets/758f45e9-f8d5-4387-a74d-9ca1110c1507" />
+  <img width="800" height="600" alt="chart" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rethabile2004&theme=default" />
+  <img width="800" height="600" alt="chart" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rethabile2004&theme=default" />
 </p>
 
 ---
