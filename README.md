@@ -52,22 +52,7 @@ Web Development • Full-Stack Applications • Cross-Platform Mobile Apps • G
 <h2 align="center">🚀 GitHub Insights</h2>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=Rethabile2004&theme=tokyonight">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rethabile2004&theme=tokyonight&margin-w=10&margin-h=10" alt="GitHub Trophies" height="120"/>
-  </a>
-  <br/>
-
-  <a href="https://github-readme-stats.vercel.app/api?username=Rethabile2004&show_icons=true&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rethabile2004&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  </a>
-
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Rethabile2004&theme=tokyonight">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rethabile2004&theme=tokyonight" alt="GitHub Streak" height="160"/>
-  </a>
-
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Rethabile2004&layout=compact&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rethabile2004&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-  </a>
+  <img width="800" height="600" alt="chart" src="https://github.com/user-attachments/assets/758f45e9-f8d5-4387-a74d-9ca1110c1507" />
 </p>
 
 ---
